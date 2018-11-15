@@ -1,5 +1,6 @@
 # Test specification
 As the payment team of Currencycloud we need to manage the full lifecycle of a payment.
+
 A payment entity consists of the following information:
 - amount: the amount of the payment
 - payer name: the name of the payer in the form of "name surname"
