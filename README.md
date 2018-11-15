@@ -11,7 +11,7 @@ and submitted.
 Below is a description of each operation:
 - sanitisation: it removes any "-" character from the payer and beneficiary name
 - validation: it checks the presence of amount, payer name and beneficiary name and it returns an error if any of those fields are missing
-- submission: it simply returns back the payment it receives
+- submission: it receives a valid payment and simply returns that back
 
 The candidate is required to provide an implementation of the scenario described above, along with tests.
 The entry point of the application will be the Main object the candidate has been provided with.
