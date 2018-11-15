@@ -14,5 +14,7 @@ Below is a detailed description of each operation:
 
 The candidate is required to model the domain and provide an implementation of the three operations described above, **along with tests**.
 The entry point of the application will be the Main object the candidate has been provided with.
+
 The application will be run via the command line with the `sbt run` command and will print the amount, payer name and beneficiary name of the submitted payment.
+
 In order to make the test easier for the candidate, the payment fields can be hardcoded in the application instead of passing them via command line.
